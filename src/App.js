@@ -6,6 +6,8 @@ import Services from "./components/Services";
 import Clients from "./components/Clients";
 import Priority from "./components/Priority"
 import Footer from "./components/Footer";
+import Snippets from "./components/Snippets"
+import Projects from "./components/Projects"
 function App() {
   return (
     <>
@@ -13,7 +15,9 @@ function App() {
       <Hero />
       <Technologies />
       <Offers />
+      <Snippets />
       <Services />
+      <Projects />
       <Clients />
       <Priority />
       <Footer />

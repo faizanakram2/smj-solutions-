@@ -21,7 +21,7 @@ const Navbar = () => {
     >
             {/* Logo */}
             <div className="flex items-center">
-                <img src={logo} alt="SMJ Logo" className="h-[60px] w-auto object-contain" />
+                <img src={logo} alt="SMJ Logo" className="h-[40px] w-auto object-contain" />
             </div>
 
             {/* Navigation Links */}

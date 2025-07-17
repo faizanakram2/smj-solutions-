@@ -5,7 +5,7 @@ const WhyChooseUs = () => {
   return (
     <section className="w-full bg-[#f1f7fa] py-20 px-6 md:px-20 text-[#032b45]">
       <div className="max-w-6xl mx-auto text-center mb-12">
-        <h2 className="text-4xl md:text-5xl font-extrabold mb-4">Why Choose Us</h2>
+        <h2 className="text-4xl md:text-5xl font-extrabold mb-4"><span className="text-[#11BAB2]">Why</span> Choose Us</h2>
         <p className="text-lg text-gray-600 max-w-2xl mx-auto">
           At SMJ, we bring unmatched expertise, innovative thinking, and dedication to every project. Here's why clients choose us as their technology partner.
         </p>

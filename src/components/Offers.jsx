@@ -22,7 +22,7 @@ const Offers = () => {
     <section className="w-full bg-white py-20 px-6 md:px-20">
       <div className="text-center mb-12">
         <h2 className="text-3xl md:text-5xl font-extrabold text-[#11BAB2] mb-4">
-          Industries We Offer
+          Industries We <span className="text-[#032B44]" >Offer</span>
         </h2>
         <p className="text-gray-600 text-lg max-w-2xl mx-auto">
           We serve a wide range of industries with cutting-edge digital solutions and expert insights that drive innovation, growth, and transformation.

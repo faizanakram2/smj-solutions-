@@ -57,7 +57,7 @@ const Clients = () => {
     <section className="w-full bg-[#032b45] py-20 px-6 md:px-20 text-white">
       <div className="text-center mb-12">
         <h2 className="text-3xl md:text-5xl font-extrabold text-white mb-4 animate-fade-in">
-          Our Clients
+        Our <span className="text-[#11BAB2]" >Clients</span>
         </h2>
         <p className="text-gray-300 text-lg max-w-2xl mx-auto animate-fade-in delay-100">
           Trusted by global innovators, entrepreneurs, and enterprises across industries and countries.
