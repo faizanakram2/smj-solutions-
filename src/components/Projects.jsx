@@ -32,7 +32,7 @@ const projects = [
   {
     title: "Task Manager Pro",
     description:
-      "Team task management app with Kanban view, deadlines, and notifications. Built on MERN stack. Perfect for startups and freelancers managing collaborative work.",
+      "Build a full-stack task management system designed specifically for construction projects and site work coordination.",
     tags: ["MongoDB", "Express", "React", "Node.js", "TailwindCSS"],
     image: taskImg,
   },
