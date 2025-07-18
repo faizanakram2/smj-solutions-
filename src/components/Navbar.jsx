@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import logo from "../Assets/WhatsApp Image 2025-07-16 at 16.45.07.jpeg"; // Adjust path if needed
+import logo from "../Assets/smj-logo.jpeg"; // Adjust path if needed
 
 const Navbar = () => {
   const [showDropdown, setShowDropdown] = useState(false);
@@ -21,7 +21,7 @@ const Navbar = () => {
     >
             {/* Logo */}
             <div className="flex items-center">
-                <img src={logo} alt="SMJ Logo" className="h-[40px] w-auto object-contain" />
+                <img src={logo} alt="SMJ Logo" className="h-[50px] w-auto object-contain" />
             </div>
 
             {/* Navigation Links */}

@@ -41,7 +41,7 @@ const Clients = () => {
     <section className="w-full bg-gradient-to-br from-[#021c2a] to-[#032b45] py-24 px-6 md:px-20 text-white">
       <div className="text-center mb-16">
         <h2 className="text-4xl md:text-6xl font-extrabold text-white mb-6 animate-fade-in">
-          Trusted <span className="text-[#11BAB2]">Clients</span>
+         Our Trusted <span className="text-[#11BAB2]">Clients</span>
         </h2>
         <p className="text-gray-300 text-lg max-w-2xl mx-auto animate-fade-in delay-100">
           Innovators, entrepreneurs, and enterprises who trust us to build their digital future.
